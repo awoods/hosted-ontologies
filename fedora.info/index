@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="index2html.xsl"?>
+
+<index>
+  <pages title="Fedora Ontologies">
+    <page id="Fedora Commons Repository Ontology" url="definitions/v4/repository"/>
+    <page id="Fedora Commons WebAC Ontology" url="definitions/v4/webac"/>
+    <page id="Fedora Commons Event Ontology" url="definitions/v4/event"/>
+    <page id="Fedora Commons Audit Ontology" url="definitions/v4/audit"/>
+    <page id="Fedora Commons Indexing Ontology" url="definitions/v4/indexing"/>
+    <page id="Fedora Commons OAI-PMH Ontology" url="definitions/v4/oai-pmh"/>
+    <page id="Fedora Commons Object State Ontology" url="definitions/1/0/access/ObjState"/>
+  </pages>
+  <pages title="Fedora Specification">
+    <page id="Fedora API Specification" url="spec/"/>
+    <page id="Fedora API Specification Test Results" url="spec-tests/"/>
+    <page id="Atomic Operations Specification" url="spec/atomic-operations/"/>
+  </pages>
+  <items>
+    <item id="Fedora Home" url="http://fedorarepository.org"/>
+    <item id="Fedora Wiki" url="https://wiki.duraspace.org/display/FF"/>
+  </items>
+</index>
